@@ -1,0 +1,15 @@
+{
+	"id": 14,
+	"firstName": "Nikhil",
+	"lastName": "Chandra",
+	"active": true,
+	"address": {
+		"street": "Vishnupuri",
+		"city": "Warangal",
+		"state": "Telangana",
+		"zip": "506003",
+		"country": "INDIA"
+	},
+	"languages" : ["Java", "C#", "Python", "Javascript"],
+	"gender" : "MALE"
+}

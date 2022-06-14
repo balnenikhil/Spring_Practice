@@ -1,0 +1,8 @@
+
+^
+java:S1192&"HDefine a constant instead of duplicating this literal "TEACHER" 3 times.(Ù­‘Ž
+S
+java:S5344">Don't use the default "PasswordEncoder" relying on plain-text.(–ƒ·4
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘„ß
+e
+java:S1128	"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€
